@@ -1,7 +1,7 @@
 [![MasterHead](https://i0.wp.com/plopdo.com/wp-content/uploads/2021/07/Screenshot-1.png?resize=1210%2C642&ssl=1)](https://3d-porfolio-mu.vercel.app/)
 <h1 align="center">Hi ??, I'm Mohammad</h1>
 <h3 align="center">A passionate frontend developer from IRAN.</h3>
-<img align="center" alt="Coding" width="900"  height ="600 "src="https://art.pixilart.com/sr2712ab0b35ecd.gif"  />
+<img align="center" alt="Coding" width="900"  height ="600 "src="https://art.pixilart.com/sr2712ab0b35ecd.gif" autoplay  />
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=12haa&label=Profile%20views&color=0e75b6&style=flat" alt="12haa" /> </p>
